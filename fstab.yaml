@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https://author-p34812-e1712500.adobeaemcloud.com/bin/franklin.delivery/humberto789/ds-start-trail/main"
+    url: "https://author-p34812-e1712500.adobeaemcloud.com/bin/franklin.delivery/humberto789/eds-start-trail/main"
     type: "markup"
     suffix: ".html"

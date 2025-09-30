@@ -1,10 +1,8 @@
 {
-  "mappings": [
-    "/content/aem-boilerplate/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
-  ],
-  "includes": [
-    "/content/aem-boilerplate/"
-  ]
+    "mappings": [
+        "/content/ds-start-trail/:/",
+        "/content/ds-start-trail/configuration:/.helix/config.json",
+        "/content/ds-start-trail/metadata:/metadata.json"
+    ],
+    "includes": ["/content/ds-start-trail/"]
 }

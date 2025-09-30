@@ -1,8 +1,8 @@
 {
     "mappings": [
-        "/content/ds-start-trail/:/",
-        "/content/ds-start-trail/configuration:/.helix/config.json",
-        "/content/ds-start-trail/metadata:/metadata.json"
+        "/content/eds-start-trail/:/",
+        "/content/eds-start-trail/configuration:/.helix/config.json",
+        "/content/eds-start-trail/metadata:/metadata.json"
     ],
-    "includes": ["/content/ds-start-trail/"]
+    "includes": ["/content/eds-start-trail/"]
 }
